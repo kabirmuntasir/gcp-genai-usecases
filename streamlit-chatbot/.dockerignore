@@ -1,0 +1,24 @@
+# This file is intentionally left blank.
+# filepath: /home/maklinux/experiments/gemini_usecases/streamlit-chatbot/.dockerignore
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.log

@@ -1,0 +1,43 @@
+{
+  "components": [
+    {
+      "data": {
+        "contents_checksum": "1f6bdd7949af7643b46857392e634f9f2f133fba23c1bbad6799a74fe90e81bf",
+        "source": "",
+        "type": "tar"
+      },
+      "dependencies": [
+        "minikube"
+      ],
+      "details": {
+        "description": "Provides minikube executable. See https://kubernetes.io/docs/tasks/tools/install-minikube/",
+        "display_name": "Minikube (Platform Specific)"
+      },
+      "gdu_only": false,
+      "id": "minikube-linux-x86_64",
+      "is_configuration": false,
+      "is_hidden": true,
+      "is_required": false,
+      "platform": {
+        "architectures": [
+          "x86_64"
+        ],
+        "operating_systems": [
+          "LINUX"
+        ]
+      },
+      "platform_required": false,
+      "version": {
+        "build_number": 20240927140238,
+        "version_string": "1.34.0"
+      }
+    }
+  ],
+  "revision": 20250124173157,
+  "schema_version": {
+    "no_update": false,
+    "url": "https://dl.google.com/dl/cloudsdk/channels/rapid/google-cloud-sdk.tar.gz",
+    "version": 3
+  },
+  "version": "508.0.0"
+}

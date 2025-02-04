@@ -1,0 +1,5 @@
+# filepath: /home/maklinux/experiments/gemini_usecases/streamlit-chatbot/src/requirements.txt
+
+google-generativeai
+streamlit
+python-dotenv

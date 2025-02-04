@@ -1,0 +1,7 @@
+# This file is intentionally left blank.
+
+# filepath: /home/maklinux/experiments/gemini_usecases/streamlit-chatbot/.gcloudignore
+.env
+.git/
+.gitignore
+.dockerignore
