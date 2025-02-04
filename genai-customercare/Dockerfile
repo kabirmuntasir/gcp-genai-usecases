@@ -6,7 +6,7 @@ COPY src/requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 
 COPY src/ .
-COPY local-terminus-448520-p6-cf8100914c1d.json /app/service-account-key.json
+COPY local-terminus-448520-p6-5eaccf4414ad.json /app/service-account-key.json
 
 ENV GOOGLE_APPLICATION_CREDENTIALS="/app/service-account-key.json"
 
