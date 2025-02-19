@@ -1,5 +1,4 @@
-# This file is intentionally left blank.
-# filepath: /home/maklinux/experiments/gemini_usecases/streamlit-chatbot/.dockerignore
+# filepath: /home/maklinux/experiments/gemini_usecases/genai-customercare/.dockerignore
 .env
 __pycache__/
 *.pyc
