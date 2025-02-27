@@ -1,5 +1,7 @@
 # GCP Generative AI Use Cases
 
+A comprehensive collection of production-ready applications demonstrating practical implementations of Google Cloud Platform's Generative AI services, featuring customer service solutions and interactive chatbots built with modern frameworks like Streamlit.
+
 This repository contains a collection of projects showcasing various applications and implementations using Google Cloud Platform's Generative AI services. Each project demonstrates different use cases and implementations of GenAI technology.
 
 ## Projects
